@@ -1,2 +1,2 @@
 # MyFolder
-Test Foler Git 
+Test Folder Git for OOP
